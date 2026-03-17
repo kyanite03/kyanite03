@@ -12,5 +12,5 @@ I bring the **R** like a pirate on the seven seas.
 **Connect / 联系方式**
 
 <!-- 🌐 网站: [ksmarsh.net](https://ksmarsh.net) -->
-- 📧 邮箱: kai@ksmarsh.net
-- 📍 地址: Melbourne, AUS / 墨尔本, 澳大利亚
+📧 邮箱: kai@ksmarsh.net
+📍 地址: Melbourne, AUS / 墨尔本, 澳大利亚
