@@ -1,8 +1,8 @@
 ## Hello World!
 I'm Kai Marsh 🏴‍☠️ | 嗨！在下马凯（中文）🈯
 
-**Applied mathematics • statistics • Chinese**  
-I bring the **R** like a pirate on the seven seas.
+**Applied Mathematics • Statistics • Chinese**  
+<!-- I bring the **R** like a pirate on the seven seas. -->
 
 **应用数学 • 统计学 • 中文诗歌儿**  
 --- 尽力把 **R** 发成老天津味儿 ---
