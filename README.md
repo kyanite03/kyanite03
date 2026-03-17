@@ -1,6 +1,7 @@
 ## Hello World!
 I'm Kai Marsh 🏴‍☠️ | 嗨！在下马凯（中文）🈯
 
+Student
 **Applied Mathematics • Statistics • Chinese**  
 <!-- I bring the **R** like a pirate on the seven seas. -->
 
