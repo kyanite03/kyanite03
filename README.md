@@ -1,9 +1,10 @@
-# Hi / 嗨！I'm Kai Marsh (马凯) 🏴‍☠️
+# Hi I'm Kai Marsh 🏴‍☠️
+## 嗨！我马凯 （中文）🈯
 
 **Applied mathematics • statistics • Chinese**  
 I bring the **R** like a pirate on the seven seas.
 
-**应用数学 • 统计学 • 中文**  
+**应用数学 • 统计学 • 中文诗歌儿**  
 尽力把 **R** 发成老天津味儿
 
 ---
