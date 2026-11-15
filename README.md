@@ -15,4 +15,4 @@ Quantitative analysis and market research for energy, infrastructure and APAC ma
 R (tidyverse, Shiny, sf, Quarto) · Python (pandas, scikit-learn, XGBoost) · Observable JS · LaTeX · Git
 
 ## Contact
-kai@ksmarsh.net · [ksmarsh.net](https://ksmarsh.net)
+kai@ksmarsh.net · [LinkedIn](https://www.linkedin.com/in/kai-marsh)
