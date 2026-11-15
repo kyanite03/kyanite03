@@ -1,6 +1,6 @@
 # Kai Marsh
 
-BCom (Finance & Statistics) · Diploma of Mathematical Sciences (Statistics), University of Melbourne
+Student BCom (Finance), University of Melbourne
 Quantitative analysis and market research for energy, infrastructure and APAC markets · English / 中文 (HSK 6)
 
 ## Featured work
